@@ -1,12 +1,12 @@
 {
     "name": "The Climber",
     "description": "A theme made by Ult, based on the manga The Climber",
-    "authors": [
+    "authors": 
         {
             "name": "ul.t7",
             "id": "734368555549589615"
         }
-    "plus": {
+    "plus": [
       "version": 0, 
     ],
     "semanticColors": {
