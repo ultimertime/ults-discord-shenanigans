@@ -1,0 +1,20 @@
+{
+    "name": "The Climber",
+    "description": "A theme made by Ult, based on the manga The Climber",
+    "authors": [
+        {
+            "name": "ul.t7",
+            "id": "734368555549589615"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#0a0a0a"
+        ]
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/ultimertime/Hhh/main/4f1300041fcf5414e7981215711ff21c.jpg",
+        "alpha": 0.15
+    }
+}
