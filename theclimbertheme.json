@@ -39,8 +39,7 @@
         ]    
    },
     "rawColors": {
-        "PLUM_20": "#0a0a0a",
-        "RED_400": "ffffff"
+        "PLUM_20": "#0a0a0a"
    },
     "background": {
         "blur": 0.1,
