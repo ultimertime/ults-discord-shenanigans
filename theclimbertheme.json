@@ -8,7 +8,9 @@
         }
     ],
     "plus": {
-    "version": 0
+      "version": 0
+      "mentionLineColor": "#ffffff",
+      "iconpack": "materialtwotone"
     },
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
@@ -37,7 +39,8 @@
         ]    
    },
     "rawColors": {
-        "PLUM_20": "#0a0a0a"
+        "PLUM_20": "#0a0a0a",
+        "RED_400": "ffffff"
    },
     "background": {
         "blur": 0.1,
