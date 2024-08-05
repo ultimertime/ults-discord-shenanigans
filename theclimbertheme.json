@@ -13,14 +13,25 @@
         ],
         "BACKGROUND_SECONDARY": [
             "#0a0a0a"  
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0a0a0a"  
         ],       
         "BACKGROUND_MOBILE_PRIMARY": [
             "#0a0a0a"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2a2d31"
         ]
     },
     "background": {
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/ultimertime/Hhh/main/4f1300041fcf5414e7981215711ff21c.jpg",
         "alpha": 0.15
-    }
++   "plus": {
++      "version": 0
++  }
 }
