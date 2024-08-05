@@ -31,7 +31,10 @@
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#0a0a0a"
-        ] 
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#faf8ff"
+        ]    
    },
     "rawColors": {
         "PLUM_20": "#0a0a0a"
