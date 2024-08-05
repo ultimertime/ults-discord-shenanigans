@@ -28,7 +28,10 @@
         ],
         "BACKGROUND_ACCENT": [
             "#2a2d31"
-        ]
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#0a0a0a"
+        ] 
    },
     "rawColors": {
         "PLUM_20": "#0a0a0a"
