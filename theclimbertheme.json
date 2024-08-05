@@ -9,7 +9,7 @@
     ],
     "plus": {
     "version": 0
-   },
+    },
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
             "#0a0a0a"
@@ -29,11 +29,14 @@
         "BACKGROUND_ACCENT": [
             "#2a2d31"
         ]
-    },
+   },
+    "rawColors": {
+        "PLUM_20": "#0a0a0a"
+   },
     "background": {
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/ultimertime/Hhh/main/4f1300041fcf5414e7981215711ff21c.jpg",
         "alpha": 0.15
-    },
+   },
     "spec": 2
 }
