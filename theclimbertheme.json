@@ -46,9 +46,12 @@
         ]    
    },
     "rawColors": {
+        "PLUM_3": "ffffff",
         "PLUM_20": "#0a0a0a",
         "PLUM_22": "#0a0a0a",
         "RED_400": "#aca9bb",
+        "PRIMARY_230": "1e1e1e",
+        "PRIMARY_560": "#1e1e1e",
         "PRIMARY_600": "#0a0a0a",
         "PRIMARY_660": "0a0a0a"
    },
